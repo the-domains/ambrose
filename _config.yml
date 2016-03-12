@@ -1,0 +1,28 @@
+name: ambrose
+favicon: null
+layout_spectrum: 0.3392345558386296
+typography_spectrum: 0.4695665396284312
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.23697766265831888
+  lightness: 0.6801510197110474
+  saturation: 0.08429038058966398
+  rhythmicContrast: 0.9277293845079839
+purpose: []
